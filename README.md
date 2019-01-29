@@ -2,7 +2,7 @@
 
 **[Graduation Project]**
 
-You can start from this [Tutorial](contants\Tutorial.md)
+You can start from this [Tutorial](Contents/Tutorial.md)
 
 ----
 >**Team Members:**
