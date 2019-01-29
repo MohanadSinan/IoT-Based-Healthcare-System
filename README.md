@@ -161,7 +161,7 @@ IoT Based Patient Health Monitoring System using ESP8266 & Arduino as shown in f
 The source code for the project IoT Based Patient Health Monitoring System using ESP8266 & Arduino is given below. 
 Simply copy the code and paste it to your Arduino IDE, then compile it and upload to your Arduino UNO Board.
 
-[`iot_based_healthcare_system.ino`](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/blob/master/Contents/iot_based_healthcare_system.ino)
+`iot_based_healthcare_system.ino`
 
 ## Video Tutorial & Explanation:
 
