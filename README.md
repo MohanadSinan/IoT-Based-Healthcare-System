@@ -18,15 +18,15 @@
 | Contents |
 | --- |
 | [Abstract](#abstract) |
-| [Block Diagram](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/new/master?readme=1#block-diagram) |
-| [Components](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/new/master?readme=1#components) |
-| [Pulse Sensor](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/new/master?readme=1#pulse-sensor) |
-| [LM35 Temperature Sensor](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/new/master?readme=1#lm35-temperature-sensor) |
-| [ESP8266](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/new/master?readme=1#esp8266) |
-| [Circuit Diagram & Connections](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/new/master?readme=1#circuit-diagram--connections) |
-| [ThingSpeak](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/new/master?readme=1#thingspeak) |
-| [Source Code/Program](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/new/master?readme=1#source-codeprogram) |
-| [Video Tutorial & Explanation](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/new/master?readme=1#video-tutorial--explanation) |
+| [Block Diagram](#block-diagram) |
+| [Components](#components) |
+| [Pulse Sensor](#pulse-sensor) |
+| [LM35 Temperature Sensor](#lm35-temperature-sensor) |
+| [ESP8266](#esp8266) |
+| [Circuit Diagram & Connections](#circuit-diagram--connections) |
+| [ThingSpeak](#thingspeak) |
+| [Source Code/Program](#source-codeprogram) |
+| [Video Tutorial & Explanation](#video-tutorial--explanation) |
 
 
 
