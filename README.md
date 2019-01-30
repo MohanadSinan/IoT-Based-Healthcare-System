@@ -15,13 +15,15 @@
 
 You can start from this [Tutorial.md](Contents/Tutorial.md)
 
+
+- [x] Arduino UNO Board `Ordered`
 - [ ] Pulse Sensor
-- [x] LM35 Temperature Sensor
-- [x] 16*2 LCD Display
+- [x] LM35 Temperature Sensor `Ordered`
+- [x] 16*2 LCD Display `Ordered`
 - [ ] Resistor 2K
 - [ ] Resistor 1K
-- [x] LED
-- [x] Breadboard
+- [x] LED `Ordered`
+- [x] Breadboard `Ordered`
 - [ ] Connecting Wires
 - [ ] Ecg module AD8232
 
