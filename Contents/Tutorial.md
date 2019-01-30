@@ -92,14 +92,14 @@ Another exciting feature of this module is that it can be programmed using the A
 The ESP8266 module works with 3.3V only, anything more than 3.7V would kill the module hence be cautions with your circuits. 
 Here are its pins description.
 
-**Pin 1: Ground:** Connected to the ground of the circuit
-**Pin 2: Tx/GPIO – 1:** Connected to Rx pin of programmer/uC to upload program
-**Pin 3: GPIO – 2:** General purpose Input/output pin
-**Pin 4: CH_EN:** Chip Enable/Active high
-**Pin 5: Flash/GPIO – 0:** General purpose Input/output pin
-**Pin 6: Reset:** Resets the module
-**Pin 7: RX/GPIO – 3:** General purpose Input/output pin
-**Pin 8: Vcc:** Connect to +3.3V only
+- **Pin 1: Ground:** Connected to the ground of the circuit
+- **Pin 2: Tx/GPIO – 1:** Connected to Rx pin of programmer/uC to upload program
+- **Pin 3: GPIO – 2:** General purpose Input/output pin
+- **Pin 4: CH_EN:** Chip Enable/Active high
+- **Pin 5: Flash/GPIO – 0:** General purpose Input/output pin
+- **Pin 6: Reset:** Resets the module
+- **Pin 7: RX/GPIO – 3:** General purpose Input/output pin
+- **Pin 8: Vcc:** Connect to +3.3V only
 
 ## Circuit Diagram & Connections:
 For designing IoT Based Patient Health Monitoring System using ESP8266 & Arduino, assemble the circuit as shown in the figure below.
