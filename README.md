@@ -16,13 +16,13 @@
 You can start from this [Tutorial.md](Contents/Tutorial.md)
 
 ----
->**Team Members:**
->- Mohanad Mohammed Sinan
->- 
->- 
->- 
->- 
->**Supervisor:**
->- Dr. Ghazi BEN HMIDA
+**Team Members:**
+- Mohanad Mohammed Sinan
+- 
+- 
+- 
+- 
+**Supervisor:**
+- Dr. Ghazi BEN HMIDA
 ----
 
