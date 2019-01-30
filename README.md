@@ -6,7 +6,7 @@
 >     - [`2019-01-15.jpeg`](Project/Whitepaper/2019-01-15.jpeg)
 >     - [`2019-01-22.jpeg`](Project/Whitepaper/2019-01-22.jpeg)
 >     - [`2019-01-29.jpeg`](Project/Whitepaper/2019-01-29.jpeg)
->   - [`Links.txt`](Project/Links.txt)
+>   - [`Links.md`](Project/Links.md)
 >   - [`Tutorial.md`](Project/Tutorial.md)
 >   - [`iot_based_healthcare_system.ino`](Project/iot_based_healthcare_system.ino)
 
