@@ -15,6 +15,16 @@
 
 You can start from this [Tutorial.md](Contents/Tutorial.md)
 
+- [ ] Pulse Sensor
+- [x] LM35 Temperature Sensor
+- [x] 16*2 LCD Display
+- [ ] Resistor 2K
+- [ ] Resistor 1K
+- [x] LED
+- [x] Breadboard
+- [ ] Connecting Wires
+- [ ] Ecg module AD8232
+
 ----
 **Team Members:**
 - Mohanad Mohammed Sinan
