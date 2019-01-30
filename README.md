@@ -13,7 +13,7 @@
 >   - `Tutorial.md`
 >   - `iot_based_healthcare_system.ino`
 
-# You can start from this [Tutorial.md](Contents/Tutorial.md)
+# You can start from this [Tutorial.md](Project/Tutorial.md)
 
 | Shopping List | Status |
 | ------------- | ------ |
