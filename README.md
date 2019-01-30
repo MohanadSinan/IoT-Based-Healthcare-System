@@ -1,7 +1,7 @@
 
 >  - Datasheets
 >    - [`ATMega328.pdf`](Project/Datasheets/ATMega328.pdf)
->    - [`Arduino Uno.pdf`](Project/Datasheets/Arduino Uno.pdf)
+>    - [`Arduino Uno.pdf`](Project/Datasheets/Arduino%20Uno.pdf)
 >  - Whitepaper
 >     - [`2019-01-15.jpeg`](Project/Whitepaper/2019-01-15.jpeg)
 >     - [`2019-01-22.jpeg`](Project/Whitepaper/2019-01-22.jpeg)
