@@ -30,16 +30,3 @@
 | LED | [`Ordered`](https://saudi.souq.com/sa-en/rgb-led-for-arduino-raspberry-pi-22518541/i/) |
 | Breadboard | [`Ordered`](https://saudi.souq.com/sa-en/mini-400-points-solderless-bread-board-breadboard-arduino-raspberry-pi-11418473/i/) |
 | Connecting Wires |  |
-
-
-----
-**Team Members:**
-- Mohanad Mohammed Sinan
-- 
-- 
-- 
-- 
-
-**Supervisor:**
-- Dr. Ghazi BEN HMIDA
-
