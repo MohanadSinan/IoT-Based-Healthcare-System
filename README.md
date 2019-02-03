@@ -19,8 +19,7 @@
 >   - [`Tutorial.md`](Project/Tutorial.md)
 >   - [`iot_based_healthcare_system.ino`](Project/iot_based_healthcare_system.ino)
 
-# You can start from this [Guide](Project/Tutorial.md)
-
+# Project Components:
 | Components | Status |
 | ------------- | ------ |
 | [Arduino UNO Board](Project/Datasheets/ArduinoUno.md) | [`Ordered`](https://saudi.souq.com/sa-en/arduino-uno-r3-6186780/i/) |
@@ -35,3 +34,5 @@
 | [RGB LED](Project/Datasheets/LED.md) | [`Ordered`](https://saudi.souq.com/sa-en/rgb-led-for-arduino-raspberry-pi-22518541/i/) |
 | [Breadboard](Project/Datasheets/Breadboard.md) | [`Ordered`](https://saudi.souq.com/sa-en/mini-400-points-solderless-bread-board-breadboard-arduino-raspberry-pi-11418473/i/) |
 | Connecting Wires |  |
+
+# You can start from this [Guide](Project/Tutorial.md)
