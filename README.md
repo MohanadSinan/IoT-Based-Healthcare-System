@@ -19,7 +19,7 @@
 
 >   - [`Links.md`](Project/Links.md)
 
->   - [`Tutorial.md`](Project/Tutorial.md
+>   - [`Tutorial.md`](Project/Tutorial.md)
 
 >   - [`iot_based_healthcare_system.ino`](Project/iot_based_healthcare_system.ino)
 
