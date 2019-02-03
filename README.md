@@ -1,7 +1,7 @@
 
 >  - Datasheets
 >    - [`ATMega328.pdf`](Project/Datasheets/ATMega328.pdf)
->    - [`Arduino Uno.pdf`](Project/Datasheets/Arduino%20Uno.pdf)
+>    - [`ArduinoUno.md`](Project/Datasheets/ArduinoUno.md)
 >  - Whitepaper
 >     - [`2019-01-15.jpeg`](Project/Whitepaper/2019-01-15.jpeg)
 >     - [`2019-01-22.jpeg`](Project/Whitepaper/2019-01-22.jpeg)
@@ -14,7 +14,7 @@
 
 | Shopping List | Status |
 | ------------- | ------ |
-| Arduino UNO Board | [`Ordered`](https://saudi.souq.com/sa-en/arduino-uno-r3-6186780/i/) |
+| [Arduino UNO Board](Project/Datasheets/ArduinoUno.md) | [`Ordered`](https://saudi.souq.com/sa-en/arduino-uno-r3-6186780/i/) |
 | ESP8266 Wi-Fi Module | [`Ordered`](https://saudi.souq.com/sa-en/esp8266-%D9%82%D8%B7%D8%B9%D8%A9-%D9%88%D8%A7%D9%8A-%D9%81%D8%A7%D9%8A-%D9%84%D9%84%D9%88%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-arduino-10640385/i/) |
 | Pulse Sensor |  |
 | Ecg module AD8232 |  |
