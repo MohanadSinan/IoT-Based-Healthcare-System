@@ -2,6 +2,7 @@
 >  - Datasheets
 >    - [`ATMega328.pdf`](Project/Datasheets/ATMega328.pdf)
 >    - [`ArduinoUno.md`](Project/Datasheets/ArduinoUno.md)
+>    - [`ESP8266.md`](Project/Datasheets/ESP8266.md)
 >  - Whitepaper
 >     - [`2019-01-15.jpeg`](Project/Whitepaper/2019-01-15.jpeg)
 >     - [`2019-01-22.jpeg`](Project/Whitepaper/2019-01-22.jpeg)
