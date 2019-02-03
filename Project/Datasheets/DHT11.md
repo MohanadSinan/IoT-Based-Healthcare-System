@@ -30,7 +30,7 @@
 - Resolution: Temperature and Humidity both are 16-bit
 - Accuracy: ±1°C and ±1%
 
-> **Note:** The **DHT11 datasheet** can be found at the bottom of the page
+> **Note:** The [**DHT11 datasheet**](#component-datasheet) can be found at the bottom of the page
 
 ## Equivalent Temperature Sensors
 DHT22, AM2302, SHT71
