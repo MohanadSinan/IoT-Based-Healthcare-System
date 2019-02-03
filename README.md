@@ -5,6 +5,7 @@
 >    - [`DHT11.md`](Project/Datasheets/DHT11.md)
 >    - [`ESP8266.md`](Project/Datasheets/ESP8266.md)
 >    - [`LCD.md`](Project/Datasheets/LCD.md)
+>    - [`LED.md`](Project/Datasheets/LED.md)
 >    - [`LM35.md`](Project/Datasheets/LM35.md)
 >  - Whitepaper
 >     - [`2019-01-15.jpeg`](Project/Whitepaper/2019-01-15.jpeg)
@@ -27,6 +28,6 @@
 | [16x2 LCD Module](Project/Datasheets/LCD.md) | [`Ordered`](https://saudi.souq.com/sa-en/lcd1602-blue-backlight-lcd-display-adapter-plate-for-arduino-12159357/i/) |
 | Resistor 2K |  |
 | Resistor 1K |  |
-| LED | [`Ordered`](https://saudi.souq.com/sa-en/rgb-led-for-arduino-raspberry-pi-22518541/i/) |
+| [RGB LED](Project/Datasheets/LED.md) | [`Ordered`](https://saudi.souq.com/sa-en/rgb-led-for-arduino-raspberry-pi-22518541/i/) |
 | Breadboard | [`Ordered`](https://saudi.souq.com/sa-en/mini-400-points-solderless-bread-board-breadboard-arduino-raspberry-pi-11418473/i/) |
 | Connecting Wires |  |
