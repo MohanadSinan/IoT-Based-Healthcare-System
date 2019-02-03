@@ -1,5 +1,5 @@
 
->  - Datasheets
+>  - Datasheets `\\ Datasheets for all Project Components.`
 >    - [`AD8232.md`](Project/Datasheets/AD8232.md)
 >    - [`ATMega328P.md`](Project/Datasheets/ATMega328P.md)
 >    - [`ArduinoUno.md`](Project/Datasheets/ArduinoUno.md)
@@ -11,12 +11,16 @@
 >    - [`LM35.md`](Project/Datasheets/LM35.md)
 >    - [`PulseSensor.md`](Project/Datasheets/PulseSensor.md)
 >    - [`Resistor.md`](Project/Datasheets/Resistor.md)
+
 >  - Whitepaper
 >     - [`2019-01-15.jpeg`](Project/Whitepaper/2019-01-15.jpeg)
 >     - [`2019-01-22.jpeg`](Project/Whitepaper/2019-01-22.jpeg)
 >     - [`2019-01-29.jpeg`](Project/Whitepaper/2019-01-29.jpeg)
+
 >   - [`Links.md`](Project/Links.md)
->   - [`Tutorial.md`](Project/Tutorial.md)
+
+>   - [`Tutorial.md`](Project/Tutorial.md
+
 >   - [`iot_based_healthcare_system.ino`](Project/iot_based_healthcare_system.ino)
 
 # Project Components:
