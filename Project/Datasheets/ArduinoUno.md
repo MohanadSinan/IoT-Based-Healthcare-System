@@ -20,6 +20,8 @@
 | TWI | A4 (SDA), A5 (SCA) | Used for TWI communication. |
 | AREF | AREF | To provide reference voltage for input voltage. |
 
+> **Note:** The [**Arduino Uno Datasheet**](#component-datasheet) can be found at the bottom of the page
+
 ## Technical Specifications
 |   |   |
 | --- | --- |
