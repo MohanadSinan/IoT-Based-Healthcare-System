@@ -4,6 +4,7 @@
 >    - [`ArduinoUno.md`](Project/Datasheets/ArduinoUno.md)
 >    - [`DHT11.md`](Project/Datasheets/DHT11.md)
 >    - [`ESP8266.md`](Project/Datasheets/ESP8266.md)
+>    - [`LCD.md`](Project/Datasheets/LCD.md)
 >    - [`LM35.md`](Project/Datasheets/LM35.md)
 >  - Whitepaper
 >     - [`2019-01-15.jpeg`](Project/Whitepaper/2019-01-15.jpeg)
@@ -23,7 +24,7 @@
 | Ecg module AD8232 |  |
 | [LM35 Temperature Sensor](Project/Datasheets/LM35.md) | [`Ordered`](https://saudi.souq.com/sa-en/the-lm35-thermometer-is-compatible-with-the-arduino-22661296/i/) |
 | [DHT11 Temperature and Humidity Sensor](Project/Datasheets/DHT11.md) | [`Ordered`](https://saudi.souq.com/sa-en/dht11-temperature-and-humidity-sensor-29887909/i/) |
-| 16x2 LCD Module | [`Ordered`](https://saudi.souq.com/sa-en/lcd1602-blue-backlight-lcd-display-adapter-plate-for-arduino-12159357/i/) |
+| [16x2 LCD Module](Project/Datasheets/LCD.md) | [`Ordered`](https://saudi.souq.com/sa-en/lcd1602-blue-backlight-lcd-display-adapter-plate-for-arduino-12159357/i/) |
 | Resistor 2K |  |
 | Resistor 1K |  |
 | LED | [`Ordered`](https://saudi.souq.com/sa-en/rgb-led-for-arduino-raspberry-pi-22518541/i/) |
