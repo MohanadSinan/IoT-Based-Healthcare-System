@@ -8,6 +8,7 @@
 >    - [`LCD.md`](Project/Datasheets/LCD.md)
 >    - [`LED.md`](Project/Datasheets/LED.md)
 >    - [`LM35.md`](Project/Datasheets/LM35.md)
+>    - [`PulseSensor.md`](Project/Datasheets/PulseSensor.md)
 >  - Whitepaper
 >     - [`2019-01-15.jpeg`](Project/Whitepaper/2019-01-15.jpeg)
 >     - [`2019-01-22.jpeg`](Project/Whitepaper/2019-01-22.jpeg)
@@ -22,7 +23,7 @@
 | ------------- | ------ |
 | [Arduino UNO Board](Project/Datasheets/ArduinoUno.md) | [`Ordered`](https://saudi.souq.com/sa-en/arduino-uno-r3-6186780/i/) |
 | [ESP8266 Wi-Fi Module](Project/Datasheets/ESP8266.md) | [`Ordered`](https://saudi.souq.com/sa-en/esp8266-%D9%82%D8%B7%D8%B9%D8%A9-%D9%88%D8%A7%D9%8A-%D9%81%D8%A7%D9%8A-%D9%84%D9%84%D9%88%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-arduino-10640385/i/) |
-| Pulse Sensor |  |
+| [Pulse Sensor](PulseSensor.md) |  |
 | Ecg module AD8232 |  |
 | [LM35 Temperature Sensor](Project/Datasheets/LM35.md) | [`Ordered`](https://saudi.souq.com/sa-en/the-lm35-thermometer-is-compatible-with-the-arduino-22661296/i/) |
 | [DHT11 Temperature and Humidity Sensor](Project/Datasheets/DHT11.md) | [`Ordered`](https://saudi.souq.com/sa-en/dht11-temperature-and-humidity-sensor-29887909/i/) |
