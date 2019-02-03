@@ -33,8 +33,8 @@
 | [LM35 Temperature Sensor](Project/Datasheets/LM35.md) | [`Ordered`](https://saudi.souq.com/sa-en/the-lm35-thermometer-is-compatible-with-the-arduino-22661296/i/) |
 | [DHT11 Temperature and Humidity Sensor](Project/Datasheets/DHT11.md) | [`Ordered`](https://saudi.souq.com/sa-en/dht11-temperature-and-humidity-sensor-29887909/i/) |
 | [16x2 LCD Module](Project/Datasheets/LCD.md) | [`Ordered`](https://saudi.souq.com/sa-en/lcd1602-blue-backlight-lcd-display-adapter-plate-for-arduino-12159357/i/) |
-| [Resistor 2KΩ](Project/Datasheets/Resistor.md) |  |
-| [Resistor 1KΩ](Project/Datasheets/Resistor.md) |  |
+| [Resistor 2K](Project/Datasheets/Resistor.md) |  |
+| [Resistor 1K](Project/Datasheets/Resistor.md) |  |
 | [RGB LED](Project/Datasheets/LED.md) | [`Ordered`](https://saudi.souq.com/sa-en/rgb-led-for-arduino-raspberry-pi-22518541/i/) |
 | [Breadboard](Project/Datasheets/Breadboard.md) | [`Ordered`](https://saudi.souq.com/sa-en/mini-400-points-solderless-bread-board-breadboard-arduino-raspberry-pi-11418473/i/) |
 | Connecting Wires |  |
