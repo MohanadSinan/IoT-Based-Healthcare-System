@@ -21,7 +21,7 @@
 
 # You can start from this [Guide](Project/Tutorial.md)
 
-| Shopping List | Status |
+| Components | Status |
 | ------------- | ------ |
 | [Arduino UNO Board](Project/Datasheets/ArduinoUno.md) | [`Ordered`](https://saudi.souq.com/sa-en/arduino-uno-r3-6186780/i/) |
 | [ESP8266 Wi-Fi Module](Project/Datasheets/ESP8266.md) | [`Ordered`](https://saudi.souq.com/sa-en/esp8266-%D9%82%D8%B7%D8%B9%D8%A9-%D9%88%D8%A7%D9%8A-%D9%81%D8%A7%D9%8A-%D9%84%D9%84%D9%88%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-arduino-10640385/i/) |
