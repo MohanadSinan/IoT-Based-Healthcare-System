@@ -2,6 +2,7 @@
 >  - Datasheets
 >    - [`ATMega328.pdf`](Project/Datasheets/ATMega328.pdf)
 >    - [`ArduinoUno.md`](Project/Datasheets/ArduinoUno.md)
+>    - [`DHT11.md`](Project/Datasheets/DHT11.md)
 >    - [`ESP8266.md`](Project/Datasheets/ESP8266.md)
 >    - [`LM35.md`](Project/Datasheets/LM35.md)
 >  - Whitepaper
@@ -21,7 +22,7 @@
 | Pulse Sensor |  |
 | Ecg module AD8232 |  |
 | [LM35 Temperature Sensor](Project/Datasheets/LM35.md) | [`Ordered`](https://saudi.souq.com/sa-en/the-lm35-thermometer-is-compatible-with-the-arduino-22661296/i/) |
-| DHT11 Temperature and Humidity Sensor | [`Ordered`](https://saudi.souq.com/sa-en/dht11-temperature-and-humidity-sensor-29887909/i/) |
+| [DHT11 Temperature and Humidity Sensor](Project/Datasheets/DHT11.md) | [`Ordered`](https://saudi.souq.com/sa-en/dht11-temperature-and-humidity-sensor-29887909/i/) |
 | 16*2 LCD Display | [`Ordered`](https://saudi.souq.com/sa-en/lcd1602-blue-backlight-lcd-display-adapter-plate-for-arduino-12159357/i/) |
 | Resistor 2K |  |
 | Resistor 1K |  |
