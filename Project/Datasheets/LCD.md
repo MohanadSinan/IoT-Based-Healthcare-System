@@ -1,4 +1,4 @@
-
+###### [`Home`](https://mohanadsinan.github.io/IoT-Based-Healthcare-System/)
 
 # 16x2 LCD Module
 
@@ -25,6 +25,8 @@
 | **14** | **Data Pin 7** | **~~** |
 | **15** | **LED Positive** | Backlight LED pin positive terminal |
 | **16** | **LED Negative** | Backlight LED pin negative terminal |
+
+> **Note:** The [**16x2 LCD Datasheet**](#component-datasheet) can be found at the bottom of the page
 
 ## Features
 - Operating Voltage is 4.7V to 5.3V
