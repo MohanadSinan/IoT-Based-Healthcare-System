@@ -1,4 +1,4 @@
-# You can start from [Wiki](wiki)
+# You can start from [Wiki](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/wiki)
 
 ## Project File Contents
 >  - Datasheets
