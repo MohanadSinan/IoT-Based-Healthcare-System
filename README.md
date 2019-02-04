@@ -1,5 +1,5 @@
 # You can start from [Wiki](wiki)
-***
+
 ## Project File Contents
 >  - Datasheets
 >    - [`AD8232.pdf`](Project/Datasheets/AD8232.pdf)
