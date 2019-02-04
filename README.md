@@ -1,4 +1,6 @@
-# Project File Contents
+# You can start from [Wiki](wiki)
+***
+## Project File Contents
 >  - Datasheets
 >    - [`AD8232.pdf`](Project/Datasheets/AD8232.pdf)
 >    - [`ATMega328P.pdf`](Project/Datasheets/ATMega328P.pdf)
@@ -21,7 +23,7 @@
 
 >   - [`iot_based_healthcare_system.ino`](Project/iot_based_healthcare_system.ino)
 
-# Project Components:
+## Project Components:
 | Components | Status |
 | :------------- | :------ |
 | [Arduino UNO Board](Project/Datasheets/ArduinoUno.md) | [`Ordered`](https://saudi.souq.com/sa-en/arduino-uno-r3-6186780/i/) |
@@ -37,4 +39,4 @@
 | [Breadboard](Project/Datasheets/Breadboard.md) | [`Ordered`](https://saudi.souq.com/sa-en/mini-400-points-solderless-bread-board-breadboard-arduino-raspberry-pi-11418473/i/) |
 | Connecting Wires |  |
 
-# You can start from [Wiki](wiki)
+
