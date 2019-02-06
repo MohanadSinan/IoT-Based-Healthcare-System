@@ -42,8 +42,8 @@
 | [16x2 LCD Module](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/wiki/I2C-LCD-Display) | [`Ordered`](https://saudi.souq.com/sa-en/lcd1602-blue-backlight-lcd-display-adapter-plate-for-arduino-12159357/i/) |
 | [Resistor 2K](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/wiki/Resistors) |  |
 | [Resistor 1K](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/wiki/Resistors) |  |
-| [RGB LED](Project/Datasheets/LED.md) | [`Ordered`](https://saudi.souq.com/sa-en/rgb-led-for-arduino-raspberry-pi-22518541/i/) |
-| [Breadboard](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/wiki/RGB-LED) | [`Ordered`](https://saudi.souq.com/sa-en/mini-400-points-solderless-bread-board-breadboard-arduino-raspberry-pi-11418473/i/) |
+| [RGB LED](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/wiki/RGB-LED) | [`Ordered`](https://saudi.souq.com/sa-en/rgb-led-for-arduino-raspberry-pi-22518541/i/) |
+| [Breadboard](https://github.com/MohanadSinan/IoT-Based-Healthcare-System/wiki/Breadboard) | [`Ordered`](https://saudi.souq.com/sa-en/mini-400-points-solderless-bread-board-breadboard-arduino-raspberry-pi-11418473/i/) |
 | Connecting Wires |  |
 
 
