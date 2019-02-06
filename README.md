@@ -19,6 +19,10 @@
 >     - [`2019-01-22.jpeg`](Project/Whitepaper/2019-01-22.jpeg)
 >     - [`2019-01-29.jpeg`](Project/Whitepaper/2019-01-29.jpeg)
 
+>  - Libraries
+>     - [`LiquidCrystal_V1.2.1.zip`](Project/Libraries/LiquidCrystal_V1.2.1.zip)
+>     - [`wire.zip`](Project/Libraries/wire.zip)
+
 >   - [`Links.md`](Project/Links.md)
 
 >   - [`iot_based_healthcare_system.ino`](Project/iot_based_healthcare_system.ino)
