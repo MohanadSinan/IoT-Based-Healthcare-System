@@ -18,6 +18,9 @@
 >     - [`2019-01-15.jpeg`](Project/Whitepaper/2019-01-15.jpeg)
 >     - [`2019-01-22.jpeg`](Project/Whitepaper/2019-01-22.jpeg)
 >     - [`2019-01-29.jpeg`](Project/Whitepaper/2019-01-29.jpeg)
+>     - [`2019-02-05-1.jpeg`](Project/Whitepaper/2019-02-05-1.jpeg)
+>     - [`2019-02-05-2.jpeg`](Project/Whitepaper/2019-02-05-2.jpeg)
+
 
 >  - Libraries
 >     - [`LiquidCrystal_V1.2.1.zip`](Project/Libraries/LiquidCrystal_V1.2.1.zip)
