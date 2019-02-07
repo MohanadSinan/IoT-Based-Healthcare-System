@@ -23,7 +23,9 @@
 
 
 >  - Libraries
->     - [`LiquidCrystal_V1.2.1.zip`](Project/Libraries/LiquidCrystal_V1.2.1.zip)
+>     - [`Adafruit_Sensor-master.zip`](Project/Libraries/Adafruit_Sensor-master.zip)
+>     - [`DHT_sensor_library.zip`](Project/Libraries/DHT_sensor_library.zip)
+>     - [`LiquidCrystal_I2C.zip`](Project/Libraries/LiquidCrystal_I2C.zip)
 >     - [`wire.zip`](Project/Libraries/wire.zip)
 
 >   - [`Links.md`](Project/Links.md)
