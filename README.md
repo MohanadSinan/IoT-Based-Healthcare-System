@@ -24,6 +24,7 @@
 
 >  - Libraries
 >     - [`Adafruit_Sensor-master.zip`](Project/Libraries/Adafruit_Sensor-master.zip)
+>     - [`CH34x_Install_Windows_v3_4.EXE`](Project/Libraries/CH34x_Install_Windows_v3_4.EXE)
 >     - [`DHT_sensor_library.zip`](Project/Libraries/DHT_sensor_library.zip)
 >     - [`LiquidCrystal_I2C.zip`](Project/Libraries/LiquidCrystal_I2C.zip)
 >     - [`wire.zip`](Project/Libraries/wire.zip)
