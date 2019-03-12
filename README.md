@@ -20,6 +20,9 @@
 >     - [`2019-01-29.jpeg`](Project/Whitepaper/2019-01-29.jpeg)
 >     - [`2019-02-05-1.jpeg`](Project/Whitepaper/2019-02-05-1.jpeg)
 >     - [`2019-02-05-2.jpeg`](Project/Whitepaper/2019-02-05-2.jpeg)
+>     - [`2019-03-07-1.jpeg`](Project/Whitepaper/2019-03-07-1.jpeg)
+>     - [`2019-03-07-2.jpeg`](Project/Whitepaper/2019-03-07-2.jpeg)
+>     - [`2019-03-07-3.jpeg`](Project/Whitepaper/2019-03-07-3.jpeg)
 
 
 >  - Libraries
