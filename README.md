@@ -3,9 +3,9 @@
 ## Project File Contents
 >  - Codes
 >    - MEGA
->      - [`1_MEGA.ino`](Project/Codes/MEGA/MEGA.ino)
+>      - [`MEGA.ino`](Project/Codes/MEGA/MEGA.ino)
 >    - ESP
->      - [`2_ESP.ino`](Project/Codes/ESP/ESP.ino)
+>      - [`ESP.ino`](Project/Codes/ESP/ESP.ino)
 
 >  - Datasheets
 >    - [`AD8232.pdf`](Project/Datasheets/AD8232.pdf)
