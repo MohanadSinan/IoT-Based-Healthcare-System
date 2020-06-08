@@ -3,7 +3,7 @@
 ## Project File Contents
 >  - Codes
 >    - MEGA
->      - [`1_MEGA.ino`](Project/Codes/ESP/1_MEGA.ino)
+>      - [`1_MEGA.ino`](Project/Codes/MEGA/1_MEGA.ino)
 >    - ESP
 >      - [`2_ESP.ino`](Project/Codes/ESP/2_ESP.ino)
 
