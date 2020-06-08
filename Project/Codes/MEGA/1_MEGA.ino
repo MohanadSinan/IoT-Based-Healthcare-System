@@ -6,9 +6,9 @@
 
 
 //------------------------------------------------------------------------------------------
-const char * SSID_NAME = "FastEnough";
-const char * SSID_PASS = "A1B2c3d4";
-const char * TOKEN = "BBFF-xlbHxBMzBq28K0tXBpE5D8AAuZxQeC";
+const char * SSID_NAME = "SSID_NAME";
+const char * SSID_PASS = "SSID_PASS";
+const char * TOKEN = "BBFF-xxxxxxxxxxxxxxxxxxxxxxxxx";
 const char * SERVER = "industrial.api.ubidots.com";
 const char * DEVICE_LABEL = "mega2560";
 const char * VARIABLE_LABEL1 = "temperature";
